@@ -1,7 +1,7 @@
 # UOL Jogos Fórum App
 ![Alt text](app/App_logo/AmazonAppStore/General%20Assets/Promotional.jpg?raw=true "Title")
 
-Aplicativo Android para acessar O Fórum UOL Jogos através do smartphone.
+Aplicativo Android para acessar O [Fórum UOL Jogos](http://forum.jogos.uol.com.br/) através do smartphone.
 
 ## Iniciando
 
