@@ -1,0 +1,49 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    
+    <item android:id="@+id/action_anterior"
+          android:title="Pág. anterior"
+          android:visibility="gone"
+          android:icon="@drawable/ic_chevron_left_white_48dp"
+          app:showAsAction="always"/>
+    
+    <item android:id="@+id/action_proximo"
+          android:title="Pág. seguinte"
+          android:visibility="gone"
+          android:icon="@drawable/ic_chevron_right_white_48dp"
+          app:showAsAction="always"/>
+          
+          
+    <item android:id="@+id/action_navegar_pag"
+          android:title="Ir para pág."
+          app:showAsAction="never"/>
+          
+    <group android:id="@+id/group_account"
+        android:title="Conta" 
+        android:layout_marginLeft="16dp">
+        <item android:id="@+id/menu_meustopicos"
+              android:visible="false"
+              app:showAsAction="never"
+              android:title="Meus Tópicos" />
+        <item android:id="@+id/menu_mp"
+              android:visible="false"
+              app:showAsAction="never"
+              android:title="MP (2)" />
+        <item android:id="@+id/menu_logar"
+        app:showAsAction="never"
+              android:title="Fazer login" />
+              
+        <item android:id="@+id/menu_sair"
+              android:visible="false"
+              app:showAsAction="never"
+              android:title="Sair" />
+    </group>
+    
+    <group android:id="@+id/group_others">
+        <item android:id="@+id/menu_about"
+            app:showAsAction="never"
+              android:title="Sobre" />
+    </group>
+
+</menu>

@@ -1,0 +1,79 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:id="@+id/Topic_Item_Container"
+    android:layout_height="wrap_content"
+	android:orientation="horizontal"
+    android:minHeight="70dp"
+    android:background="#ffffff">
+	
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+	android:orientation="vertical">
+    
+    <ImageView
+            android:layout_width="46dp"
+            android:layout_margin="4dp"
+            android:id="@+id/avatar_stored_gp"
+            android:layout_height="46dp"
+            android:src="@drawable/nopic"/>
+     
+      
+      </LinearLayout>
+
+      
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+      android:layout_width="0dp"
+      android:layout_height="wrap_content"
+      android:layout_weight="1"
+      android:layout_marginLeft="14dp"
+      android:layout_marginTop="2dp"
+      android:layout_marginBottom="6dp"
+      android:orientation="vertical">
+    
+	<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+	android:orientation="horizontal"
+    android:layout_marginTop="4dp"
+	android:id="@+id/gp_Nickname_Container">
+
+   <TextView
+		android:id="@+id/gp_Nickname"
+		android:layout_width="fill_parent"
+		android:layout_height="wrap_content"
+        android:textStyle="bold"
+		android:textSize="20dp"
+		android:layout_alignParentRight="true"
+		android:gravity="center_vertical"
+		android:textColor="#000000"/>
+        
+   </LinearLayout>
+   
+      <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+  android:layout_width="fill_parent"
+  android:layout_height="wrap_content"
+  android:layout_marginTop="2dp"
+  android:layout_marginBottom="6dp"
+  android:orientation="horizontal">
+      
+        <TextView
+		android:id="@+id/gp_Email"
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+        android:textSize="15dp"
+		android:textColor="#727272"/>
+      
+      </LinearLayout>
+      
+   </LinearLayout>
+   
+   <ImageView
+            android:layout_width="24dp"
+            android:layout_margin="4dp"
+            android:id="@+id/gp_delete_profile"
+            android:layout_height="24dp"
+            android:src="@drawable/ic_clear_black_24dp"/>
+   
+
+</LinearLayout>

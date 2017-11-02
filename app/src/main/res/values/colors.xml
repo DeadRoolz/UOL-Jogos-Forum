@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="orange">#e55b00</color>
+    <color name="orange_soft">#ff8535</color>
+    <color name="scrollbar_color">#af4213</color>
+    <color name="gray_soft">#adadad</color>
+    
+    
+    <color name="topic_container_color">#ffffff</color>
+    <color name="topic_secondary_text_color">#ff8942</color>
+    <color name="topic_primary_text_color">#d14e00</color>
+    
+    <color name="post_primary_text_color">#000000</color>
+    <color name="post_secondary_text_color">#adadad</color>
+    <color name="post_container_color_default">#efefff</color>
+    <color name="post_container_color_first">#ffffff</color>
+    
+    <color name="black_grayed">#212020</color>
+    
+    <color name="toolbar_color">#5e5e5e</color>
+</resources>

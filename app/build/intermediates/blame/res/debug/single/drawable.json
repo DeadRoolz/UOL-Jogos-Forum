@@ -1,0 +1,962 @@
+[
+    {
+        "merged": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_mood_white_36dp.png",
+        "source": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\src\\main\\res\\drawable\\ic_mood_white_36dp.png"
+    },
+    {
+        "merged": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ceara.gif",
+        "source": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\src\\main\\res\\drawable\\ceara.gif"
+    },
+    {
+        "merged": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_star_half_yellow_24dp.png",
+        "source": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\src\\main\\res\\drawable\\ic_star_half_yellow_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bahia.gif",
+        "source": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\src\\main\\res\\drawable\\bahia.gif"
+    },
+    {
+        "merged": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_snes.gif",
+        "source": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\src\\main\\res\\drawable\\icon_snes.gif"
+    },
+    {
+        "merged": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cruzeiro.gif",
+        "source": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\src\\main\\res\\drawable\\cruzeiro.gif"
+    },
+    {
+        "merged": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_thumb_up_white_24dp.png",
+        "source": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\src\\main\\res\\drawable\\ic_thumb_up_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_refresh_white_24dp.png",
+        "source": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\src\\main\\res\\drawable\\ic_refresh_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_gg.gif",
+        "source": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\src\\main\\res\\drawable\\icon_gg.gif"
+    },
+    {
+        "merged": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_sfc.gif",
+        "source": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\src\\main\\res\\drawable\\icon_sfc.gif"
+    },
+    {
+        "merged": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_material.xml",
+        "source": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable\\abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_full_material.xml",
+        "source": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_ratingbar_full_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\vitoria.gif",
+        "source": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\src\\main\\res\\drawable\\vitoria.gif"
+    },
+    {
+        "merged": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg_low.xml",
+        "source": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\santos.gif",
+        "source": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\src\\main\\res\\drawable\\santos.gif"
+    },
+    {
+        "merged": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_snackbar_background.xml",
+        "source": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.0.1\\res\\drawable\\design_snackbar_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\nautico.gif",
+        "source": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\src\\main\\res\\drawable\\nautico.gif"
+    },
+    {
+        "merged": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_bottom_navigation_item_background.xml",
+        "source": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.0.1\\res\\drawable\\design_bottom_navigation_item_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_send_black_48dp.png",
+        "source": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\src\\main\\res\\drawable\\ic_send_black_48dp.png"
+    },
+    {
+        "merged": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_more_vert_white_36dp.png",
+        "source": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\src\\main\\res\\drawable\\ic_more_vert_white_36dp.png"
+    },
+    {
+        "merged": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\nopic.gif",
+        "source": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\src\\main\\res\\drawable\\nopic.gif"
+    },
+    {
+        "merged": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_autorenew_white_36dp.png",
+        "source": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\src\\main\\res\\drawable\\ic_autorenew_white_36dp.png"
+    },
+    {
+        "merged": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_ilove.gif",
+        "source": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\src\\main\\res\\drawable\\icon_ilove.gif"
+    },
+    {
+        "merged": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\america_rn.gif",
+        "source": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\src\\main\\res\\drawable\\america_rn.gif"
+    },
+    {
+        "merged": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_mood_black_18dp.png",
+        "source": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\src\\main\\res\\drawable\\ic_mood_black_18dp.png"
+    },
+    {
+        "merged": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bragantino.gif",
+        "source": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\src\\main\\res\\drawable\\bragantino.gif"
+    },
+    {
+        "merged": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\figueirense.gif",
+        "source": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\src\\main\\res\\drawable\\figueirense.gif"
+    },
+    {
+        "merged": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_rimbuk.gif",
+        "source": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\src\\main\\res\\drawable\\icon_rimbuk.gif"
+    },
+    {
+        "merged": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background.xml",
+        "source": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable\\abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_cube2.gif",
+        "source": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\src\\main\\res\\drawable\\icon_cube2.gif"
+    },
+    {
+        "merged": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_idea.gif",
+        "source": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\src\\main\\res\\drawable\\icon_idea.gif"
+    },
+    {
+        "merged": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_last_page_black_18dp.png",
+        "source": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\src\\main\\res\\drawable\\ic_last_page_black_18dp.png"
+    },
+    {
+        "merged": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_not.gif",
+        "source": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\src\\main\\res\\drawable\\icon_not.gif"
+    },
+    {
+        "merged": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_omgrollt.gif",
+        "source": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\src\\main\\res\\drawable\\icon_omgrollt.gif"
+    },
+    {
+        "merged": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\coritiba.gif",
+        "source": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\src\\main\\res\\drawable\\coritiba.gif"
+    },
+    {
+        "merged": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\_32x.gif",
+        "source": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\src\\main\\res\\drawable\\_32x.gif"
+    },
+    {
+        "merged": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_ps32.gif",
+        "source": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\src\\main\\res\\drawable\\icon_ps32.gif"
+    },
+    {
+        "merged": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_chevron_left_white_24dp.png",
+        "source": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\src\\main\\res\\drawable\\ic_chevron_left_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_ds.gif",
+        "source": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\src\\main\\res\\drawable\\icon_ds.gif"
+    },
+    {
+        "merged": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_ab_back_material.xml",
+        "source": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable\\abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_tick_mark_material.xml",
+        "source": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc.gif",
+        "source": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\src\\main\\res\\drawable\\abc.gif"
+    },
+    {
+        "merged": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_omg.gif",
+        "source": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\src\\main\\res\\drawable\\icon_omg.gif"
+    },
+    {
+        "merged": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_rev.gif",
+        "source": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\src\\main\\res\\drawable\\icon_rev.gif"
+    },
+    {
+        "merged": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\internacional.gif",
+        "source": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\src\\main\\res\\drawable\\internacional.gif"
+    },
+    {
+        "merged": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_fc1.gif",
+        "source": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\src\\main\\res\\drawable\\icon_fc1.gif"
+    },
+    {
+        "merged": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_wink.gif",
+        "source": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\src\\main\\res\\drawable\\icon_wink.gif"
+    },
+    {
+        "merged": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_ps1.gif",
+        "source": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\src\\main\\res\\drawable\\icon_ps1.gif"
+    },
+    {
+        "merged": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\brasiliense_df.gif",
+        "source": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\src\\main\\res\\drawable\\brasiliense_df.gif"
+    },
+    {
+        "merged": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_mood_white_18dp.png",
+        "source": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\src\\main\\res\\drawable\\ic_mood_white_18dp.png"
+    },
+    {
+        "merged": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_chevron_left_white_48dp.png",
+        "source": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\src\\main\\res\\drawable\\ic_chevron_left_white_48dp.png"
+    },
+    {
+        "merged": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_xis.gif",
+        "source": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\src\\main\\res\\drawable\\icon_xis.gif"
+    },
+    {
+        "merged": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_comment_black_24dp.png",
+        "source": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\src\\main\\res\\drawable\\ic_comment_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_ngage.gif",
+        "source": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\src\\main\\res\\drawable\\icon_ngage.gif"
+    },
+    {
+        "merged": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_shockblond.gif",
+        "source": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\src\\main\\res\\drawable\\icon_shockblond.gif"
+    },
+    {
+        "merged": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_psp.gif",
+        "source": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\src\\main\\res\\drawable\\icon_psp.gif"
+    },
+    {
+        "merged": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_xbox2.gif",
+        "source": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\src\\main\\res\\drawable\\icon_xbox2.gif"
+    },
+    {
+        "merged": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_star_half_red_24dp.png",
+        "source": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\src\\main\\res\\drawable\\ic_star_half_red_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\duque_de_caxias.gif",
+        "source": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\src\\main\\res\\drawable\\duque_de_caxias.gif"
+    },
+    {
+        "merged": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\guarani.gif",
+        "source": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\src\\main\\res\\drawable\\guarani.gif"
+    },
+    {
+        "merged": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_format_quote_white_24dp.png",
+        "source": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\src\\main\\res\\drawable\\ic_format_quote_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_mood_black_36dp.png",
+        "source": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\src\\main\\res\\drawable\\ic_mood_black_36dp.png"
+    },
+    {
+        "merged": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_arrow_back_white_24dp.png",
+        "source": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\src\\main\\res\\drawable\\ic_arrow_back_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_star_black_24dp.png",
+        "source": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\src\\main\\res\\drawable\\ic_star_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_rolleyes.gif",
+        "source": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\src\\main\\res\\drawable\\icon_rolleyes.gif"
+    },
+    {
+        "merged": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_archive_black_24dp.png",
+        "source": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\src\\main\\res\\drawable\\ic_archive_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\fortaleza.gif",
+        "source": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\src\\main\\res\\drawable\\fortaleza.gif"
+    },
+    {
+        "merged": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_cube.gif",
+        "source": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\src\\main\\res\\drawable\\icon_cube.gif"
+    },
+    {
+        "merged": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_3do.gif",
+        "source": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\src\\main\\res\\drawable\\icon_3do.gif"
+    },
+    {
+        "merged": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\juventude.gif",
+        "source": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\src\\main\\res\\drawable\\juventude.gif"
+    },
+    {
+        "merged": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_autorenew_white_18dp.png",
+        "source": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\src\\main\\res\\drawable\\ic_autorenew_white_18dp.png"
+    },
+    {
+        "merged": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_add_white_24dp.png",
+        "source": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\src\\main\\res\\drawable\\ic_add_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_ic_visibility.xml",
+        "source": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.0.1\\res\\drawable\\design_ic_visibility.xml"
+    },
+    {
+        "merged": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_mood_white_48dp.png",
+        "source": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\src\\main\\res\\drawable\\ic_mood_white_48dp.png"
+    },
+    {
+        "merged": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_mood_white_24dp.png",
+        "source": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\src\\main\\res\\drawable\\ic_mood_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\vasco.gif",
+        "source": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\src\\main\\res\\drawable\\vasco.gif"
+    },
+    {
+        "merged": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_loveangry.gif",
+        "source": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\src\\main\\res\\drawable\\icon_loveangry.gif"
+    },
+    {
+        "merged": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_gba.gif",
+        "source": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\src\\main\\res\\drawable\\icon_gba.gif"
+    },
+    {
+        "merged": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_nvm.gif",
+        "source": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\src\\main\\res\\drawable\\icon_nvm.gif"
+    },
+    {
+        "merged": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_nc.gif",
+        "source": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\src\\main\\res\\drawable\\icon_nc.gif"
+    },
+    {
+        "merged": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\campinense_pb.gif",
+        "source": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\src\\main\\res\\drawable\\campinense_pb.gif"
+    },
+    {
+        "merged": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_ps2.gif",
+        "source": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\src\\main\\res\\drawable\\icon_ps2.gif"
+    },
+    {
+        "merged": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_voice_search_api_material.xml",
+        "source": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable\\abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_surprised.gif",
+        "source": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\src\\main\\res\\drawable\\icon_surprised.gif"
+    },
+    {
+        "merged": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_pce.gif",
+        "source": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\src\\main\\res\\drawable\\icon_pce.gif"
+    },
+    {
+        "merged": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_np.gif",
+        "source": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\src\\main\\res\\drawable\\icon_np.gif"
+    },
+    {
+        "merged": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_thumb_down_white_24dp.png",
+        "source": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\src\\main\\res\\drawable\\ic_thumb_down_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_refresh_white_36dp.png",
+        "source": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\src\\main\\res\\drawable\\ic_refresh_white_36dp.png"
+    },
+    {
+        "merged": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_star_border_black_24dp.png",
+        "source": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\src\\main\\res\\drawable\\ic_star_border_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\palmeiras.gif",
+        "source": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\src\\main\\res\\drawable\\palmeiras.gif"
+    },
+    {
+        "merged": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_vector_test.xml",
+        "source": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable\\abc_vector_test.xml"
+    },
+    {
+        "merged": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_cool.gif",
+        "source": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\src\\main\\res\\drawable\\icon_cool.gif"
+    },
+    {
+        "merged": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_wtff.gif",
+        "source": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\src\\main\\res\\drawable\\icon_wtff.gif"
+    },
+    {
+        "merged": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_autorenew_white_48dp.png",
+        "source": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\src\\main\\res\\drawable\\ic_autorenew_white_48dp.png"
+    },
+    {
+        "merged": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\gremio.gif",
+        "source": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\src\\main\\res\\drawable\\gremio.gif"
+    },
+    {
+        "merged": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear_material.xml",
+        "source": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable\\abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_emosit.gif",
+        "source": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\src\\main\\res\\drawable\\icon_emosit.gif"
+    },
+    {
+        "merged": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_search_api_material.xml",
+        "source": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable\\abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_go_search_api_material.xml",
+        "source": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable\\abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_question_answer_white_36dp.png",
+        "source": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\src\\main\\res\\drawable\\ic_question_answer_white_36dp.png"
+    },
+    {
+        "merged": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_md.gif",
+        "source": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\src\\main\\res\\drawable\\icon_md.gif"
+    },
+    {
+        "merged": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_dark.xml",
+        "source": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_dialog_material_background_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_star_red_24dp.png",
+        "source": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\src\\main\\res\\drawable\\ic_star_red_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_shocknorw.gif",
+        "source": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\src\\main\\res\\drawable\\icon_shocknorw.gif"
+    },
+    {
+        "merged": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_arrow_back_black_24dp.png",
+        "source": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\src\\main\\res\\drawable\\ic_arrow_back_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_coolcry.gif",
+        "source": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\src\\main\\res\\drawable\\icon_coolcry.gif"
+    },
+    {
+        "merged": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_jg.gif",
+        "source": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\src\\main\\res\\drawable\\icon_jg.gif"
+    },
+    {
+        "merged": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_eek.gif",
+        "source": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\src\\main\\res\\drawable\\icon_eek.gif"
+    },
+    {
+        "merged": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_sad.gif",
+        "source": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\src\\main\\res\\drawable\\icon_sad.gif"
+    },
+    {
+        "merged": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_rimkuk2.gif",
+        "source": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\src\\main\\res\\drawable\\icon_rimkuk2.gif"
+    },
+    {
+        "merged": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_password_eye.xml",
+        "source": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.3.0\\res\\drawable\\design_password_eye.xml"
+    },
+    {
+        "merged": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_vryhappy.gif",
+        "source": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\src\\main\\res\\drawable\\icon_vryhappy.gif"
+    },
+    {
+        "merged": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_question_answer_white_24dp.png",
+        "source": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\src\\main\\res\\drawable\\ic_question_answer_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_exclaim.gif",
+        "source": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\src\\main\\res\\drawable\\icon_exclaim.gif"
+    },
+    {
+        "merged": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\flamengo.gif",
+        "source": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\src\\main\\res\\drawable\\flamengo.gif"
+    },
+    {
+        "merged": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_icon_background.xml",
+        "source": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\dotted.xml",
+        "source": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\src\\main\\res\\drawable\\dotted.xml"
+    },
+    {
+        "merged": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_cryingoffelicity.gif",
+        "source": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\src\\main\\res\\drawable\\icon_cryingoffelicity.gif"
+    },
+    {
+        "merged": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\goias.gif",
+        "source": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\src\\main\\res\\drawable\\goias.gif"
+    },
+    {
+        "merged": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_n64.gif",
+        "source": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\src\\main\\res\\drawable\\icon_n64.gif"
+    },
+    {
+        "merged": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_arrow_drop_down_black_24dp.png",
+        "source": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\src\\main\\res\\drawable\\ic_arrow_drop_down_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_fc2.gif",
+        "source": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\src\\main\\res\\drawable\\icon_fc2.gif"
+    },
+    {
+        "merged": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_vrysad.gif",
+        "source": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\src\\main\\res\\drawable\\icon_vrysad.gif"
+    },
+    {
+        "merged": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_love.gif",
+        "source": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\src\\main\\res\\drawable\\icon_love.gif"
+    },
+    {
+        "merged": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_lyx.gif",
+        "source": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\src\\main\\res\\drawable\\icon_lyx.gif"
+    },
+    {
+        "merged": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_arrow.gif",
+        "source": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\src\\main\\res\\drawable\\icon_arrow.gif"
+    },
+    {
+        "merged": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_mad.gif",
+        "source": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\src\\main\\res\\drawable\\icon_mad.gif"
+    },
+    {
+        "merged": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_awesome.gif",
+        "source": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\src\\main\\res\\drawable\\icon_awesome.gif"
+    },
+    {
+        "merged": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_ha.gif",
+        "source": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\src\\main\\res\\drawable\\icon_ha.gif"
+    },
+    {
+        "merged": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\parana_clube.gif",
+        "source": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\src\\main\\res\\drawable\\parana_clube.gif"
+    },
+    {
+        "merged": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\botafogo.gif",
+        "source": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\src\\main\\res\\drawable\\botafogo.gif"
+    },
+    {
+        "merged": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_fuuu.gif",
+        "source": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\src\\main\\res\\drawable\\icon_fuuu.gif"
+    },
+    {
+        "merged": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_star_yellow_24dp.png",
+        "source": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\src\\main\\res\\drawable\\ic_star_yellow_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sao_caetano.gif",
+        "source": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\src\\main\\res\\drawable\\sao_caetano.gif"
+    },
+    {
+        "merged": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_ps22.gif",
+        "source": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\src\\main\\res\\drawable\\icon_ps22.gif"
+    },
+    {
+        "merged": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_x360.gif",
+        "source": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\src\\main\\res\\drawable\\icon_x360.gif"
+    },
+    {
+        "merged": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sport.gif",
+        "source": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\src\\main\\res\\drawable\\sport.gif"
+    },
+    {
+        "merged": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_clear_black_24dp.png",
+        "source": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\src\\main\\res\\drawable\\ic_clear_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\avai.gif",
+        "source": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\src\\main\\res\\drawable\\avai.gif"
+    },
+    {
+        "merged": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_overflow_material.xml",
+        "source": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable\\abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_dc.gif",
+        "source": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\src\\main\\res\\drawable\\icon_dc.gif"
+    },
+    {
+        "merged": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_sweattz.gif",
+        "source": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\src\\main\\res\\drawable\\icon_sweattz.gif"
+    },
+    {
+        "merged": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\portuguesa.gif",
+        "source": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\src\\main\\res\\drawable\\portuguesa.gif"
+    },
+    {
+        "merged": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_cryingalot.gif",
+        "source": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\src\\main\\res\\drawable\\icon_cryingalot.gif"
+    },
+    {
+        "merged": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_neutral.gif",
+        "source": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\src\\main\\res\\drawable\\icon_neutral.gif"
+    },
+    {
+        "merged": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\custom_progress.xml",
+        "source": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\src\\main\\res\\drawable\\custom_progress.xml"
+    },
+    {
+        "merged": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_tile_bg.xml",
+        "source": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\loader.gif",
+        "source": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\src\\main\\res\\drawable\\loader.gif"
+    },
+    {
+        "merged": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_dc2.gif",
+        "source": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\src\\main\\res\\drawable\\icon_dc2.gif"
+    },
+    {
+        "merged": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_gb.gif",
+        "source": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\src\\main\\res\\drawable\\icon_gb.gif"
+    },
+    {
+        "merged": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_mustache.gif",
+        "source": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\src\\main\\res\\drawable\\icon_mustache.gif"
+    },
+    {
+        "merged": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_more_vert_white_24dp.png",
+        "source": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\src\\main\\res\\drawable\\ic_more_vert_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_emotion.gif",
+        "source": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\src\\main\\res\\drawable\\icon_emotion.gif"
+    },
+    {
+        "merged": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_ws.gif",
+        "source": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\src\\main\\res\\drawable\\icon_ws.gif"
+    },
+    {
+        "merged": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\vila_nova_go.gif",
+        "source": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\src\\main\\res\\drawable\\vila_nova_go.gif"
+    },
+    {
+        "merged": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_chevron_right_white_48dp.png",
+        "source": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\src\\main\\res\\drawable\\ic_chevron_right_white_48dp.png"
+    },
+    {
+        "merged": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_shockpink.gif",
+        "source": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\src\\main\\res\\drawable\\icon_shockpink.gif"
+    },
+    {
+        "merged": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_nes.gif",
+        "source": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\src\\main\\res\\drawable\\icon_nes.gif"
+    },
+    {
+        "merged": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_autorenew_white_24dp.png",
+        "source": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\src\\main\\res\\drawable\\ic_autorenew_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_mood_black_24dp.png",
+        "source": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\src\\main\\res\\drawable\\ic_mood_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_pinkarrow.gif",
+        "source": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\src\\main\\res\\drawable\\icon_pinkarrow.gif"
+    },
+    {
+        "merged": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_facepalm.gif",
+        "source": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\src\\main\\res\\drawable\\icon_facepalm.gif"
+    },
+    {
+        "merged": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_star_half_black_24dp.png",
+        "source": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\src\\main\\res\\drawable\\ic_star_half_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_keyboard_arrow_right_white_24dp.png",
+        "source": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\src\\main\\res\\drawable\\ic_keyboard_arrow_right_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ponte_preta.gif",
+        "source": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\src\\main\\res\\drawable\\ponte_preta.gif"
+    },
+    {
+        "merged": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_forum_white_36dp.png",
+        "source": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\src\\main\\res\\drawable\\ic_forum_white_36dp.png"
+    },
+    {
+        "merged": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg.xml",
+        "source": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\atletico_go.gif",
+        "source": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\src\\main\\res\\drawable\\atletico_go.gif"
+    },
+    {
+        "merged": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_refresh_white_48dp.png",
+        "source": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\src\\main\\res\\drawable\\ic_refresh_white_48dp.png"
+    },
+    {
+        "merged": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_chat_white_48dp.png",
+        "source": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\src\\main\\res\\drawable\\ic_chat_white_48dp.png"
+    },
+    {
+        "merged": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_biggrin.gif",
+        "source": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\src\\main\\res\\drawable\\icon_biggrin.gif"
+    },
+    {
+        "merged": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_arrow_drop_down_white_24dp.png",
+        "source": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\src\\main\\res\\drawable\\ic_arrow_drop_down_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sao_paulo.gif",
+        "source": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\src\\main\\res\\drawable\\sao_paulo.gif"
+    },
+    {
+        "merged": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\fluminense.gif",
+        "source": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\src\\main\\res\\drawable\\fluminense.gif"
+    },
+    {
+        "merged": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_lol.gif",
+        "source": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\src\\main\\res\\drawable\\icon_lol.gif"
+    },
+    {
+        "merged": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_more_vert_white_18dp.png",
+        "source": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\src\\main\\res\\drawable\\ic_more_vert_white_18dp.png"
+    },
+    {
+        "merged": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_delete_white_24dp.png",
+        "source": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\src\\main\\res\\drawable\\ic_delete_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_question.gif",
+        "source": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\src\\main\\res\\drawable\\icon_question.gif"
+    },
+    {
+        "merged": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_redface.gif",
+        "source": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\src\\main\\res\\drawable\\icon_redface.gif"
+    },
+    {
+        "merged": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_light.xml",
+        "source": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_dialog_material_background_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ipatinga_mg.gif",
+        "source": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\src\\main\\res\\drawable\\ipatinga_mg.gif"
+    },
+    {
+        "merged": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_oopscool.gif",
+        "source": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\src\\main\\res\\drawable\\icon_oopscool.gif"
+    },
+    {
+        "merged": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_cry.gif",
+        "source": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\src\\main\\res\\drawable\\icon_cry.gif"
+    },
+    {
+        "merged": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_crylolim.gif",
+        "source": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\src\\main\\res\\drawable\\icon_crylolim.gif"
+    },
+    {
+        "merged": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_vb.gif",
+        "source": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\src\\main\\res\\drawable\\icon_vb.gif"
+    },
+    {
+        "merged": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_lolsuper.gif",
+        "source": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\src\\main\\res\\drawable\\icon_lolsuper.gif"
+    },
+    {
+        "merged": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_vamp.gif",
+        "source": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\src\\main\\res\\drawable\\icon_vamp.gif"
+    },
+    {
+        "merged": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_twisted.gif",
+        "source": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\src\\main\\res\\drawable\\icon_twisted.gif"
+    },
+    {
+        "merged": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_question_answer_white_48dp.png",
+        "source": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\src\\main\\res\\drawable\\ic_question_answer_white_48dp.png"
+    },
+    {
+        "merged": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_confused.gif",
+        "source": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\src\\main\\res\\drawable\\icon_confused.gif"
+    },
+    {
+        "merged": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_psx.gif",
+        "source": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\src\\main\\res\\drawable\\icon_psx.gif"
+    },
+    {
+        "merged": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\navigation_empty_icon.xml",
+        "source": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.0.1\\res\\drawable\\navigation_empty_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_rock.gif",
+        "source": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\src\\main\\res\\drawable\\icon_rock.gif"
+    },
+    {
+        "merged": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_razz.gif",
+        "source": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\src\\main\\res\\drawable\\icon_razz.gif"
+    },
+    {
+        "merged": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_x360l.gif",
+        "source": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\src\\main\\res\\drawable\\icon_x360l.gif"
+    },
+    {
+        "merged": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_fab_background.xml",
+        "source": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.0.1\\res\\drawable\\design_fab_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_reply_white_24dp.png",
+        "source": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\src\\main\\res\\drawable\\ic_reply_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_smile.gif",
+        "source": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\src\\main\\res\\drawable\\icon_smile.gif"
+    },
+    {
+        "merged": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_ps31.gif",
+        "source": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\src\\main\\res\\drawable\\icon_ps31.gif"
+    },
+    {
+        "merged": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_duo.gif",
+        "source": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\src\\main\\res\\drawable\\icon_duo.gif"
+    },
+    {
+        "merged": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_question_answer_white_18dp.png",
+        "source": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\src\\main\\res\\drawable\\ic_question_answer_white_18dp.png"
+    },
+    {
+        "merged": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_star_border_white_24dp.png",
+        "source": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\src\\main\\res\\drawable\\ic_star_border_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_refresh_white_18dp.png",
+        "source": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\src\\main\\res\\drawable\\ic_refresh_white_18dp.png"
+    },
+    {
+        "merged": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\atletico_mg.gif",
+        "source": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\src\\main\\res\\drawable\\atletico_mg.gif"
+    },
+    {
+        "merged": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_more_vert_white_48dp.png",
+        "source": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\src\\main\\res\\drawable\\ic_more_vert_white_48dp.png"
+    },
+    {
+        "merged": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_gbasp.gif",
+        "source": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\src\\main\\res\\drawable\\icon_gbasp.gif"
+    },
+    {
+        "merged": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_mood_black_48dp.png",
+        "source": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\src\\main\\res\\drawable\\ic_mood_black_48dp.png"
+    },
+    {
+        "merged": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\santo_andre.gif",
+        "source": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\src\\main\\res\\drawable\\santo_andre.gif"
+    },
+    {
+        "merged": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_evil.gif",
+        "source": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\src\\main\\res\\drawable\\icon_evil.gif"
+    },
+    {
+        "merged": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\corinthians.gif",
+        "source": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\src\\main\\res\\drawable\\corinthians.gif"
+    },
+    {
+        "merged": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_sat.gif",
+        "source": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\src\\main\\res\\drawable\\icon_sat.gif"
+    },
+    {
+        "merged": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_xbox.gif",
+        "source": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\src\\main\\res\\drawable\\icon_xbox.gif"
+    },
+    {
+        "merged": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_girlblink.gif",
+        "source": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\src\\main\\res\\drawable\\icon_girlblink.gif"
+    },
+    {
+        "merged": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\atletico_pr.gif",
+        "source": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\src\\main\\res\\drawable\\atletico_pr.gif"
+    },
+    {
+        "merged": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\gremio_barueri.gif",
+        "source": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\src\\main\\res\\drawable\\gremio_barueri.gif"
+    },
+    {
+        "merged": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_mrgreen.gif",
+        "source": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\src\\main\\res\\drawable\\icon_mrgreen.gif"
+    }
+]

@@ -1,0 +1,74 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/header_layout"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical"
+    android:background="#727272"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/user_layout"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:layout_marginBottom="16dp"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    
+    <ImageView
+            android:id="@+id/nav_avatar"
+            android:layout_width="48dp"
+            android:layout_margin="16dp"
+            android:layout_height="48dp"
+            android:src="@drawable/nopic"/>
+            
+    <TextView
+		android:id="@+id/nav_username"
+
+		android:layout_width="wrap_content"
+        android:textSize="18dp"
+		android:layout_height="wrap_content"
+        android:layout_marginLeft="16dp"
+        android:textColor="#ffffff"/>
+        
+        <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/emailnav_layout"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal"
+    android:layout_marginBottom="16dp"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+      android:layout_width="0dp"
+      android:layout_height="wrap_content"
+      android:layout_weight=".8"
+      android:layout_marginTop="5dp"
+      android:orientation="vertical">
+      
+      <TextView
+		android:id="@+id/nav_email"
+        android:layout_marginLeft="16dp"
+        android:layout_width="wrap_content"
+        android:layout_gravity="left"
+        android:textSize="13dp"
+		android:layout_height="wrap_content"
+        android:textColor="#ffffff"/>
+      
+      </LinearLayout>
+        
+        <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+      android:layout_width="0dp"
+      android:layout_weight=".2"
+      android:layout_height="wrap_content"
+      android:layout_marginRight="10dp"
+      android:layout_marginTop="5dp"
+      android:orientation="vertical">
+      
+            
+            </LinearLayout>
+     
+     </LinearLayout>
+        
+    </LinearLayout>
+    
+</LinearLayout>

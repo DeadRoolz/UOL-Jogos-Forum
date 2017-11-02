@@ -1,0 +1,24 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/itemMain_container"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    
+    <ImageView 
+          android:id="@+id/ForumIcon"
+          android:src="@drawable/ic_forum_white_36dp"
+          android:layout_width="wrap_content"
+          android:layout_marginBottom="6dp"
+          android:layout_height="wrap_content"
+          android:layout_gravity="center"/>
+          
+    <TextView
+        android:id="@+id/ForumDesc"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:textColor="#ffffff"
+        android:text="Fórum" />
+    
+</LinearLayout>

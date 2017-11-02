@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\menu\\opcoes_meus_topicos.xml",
+        "source": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\src\\main\\res\\menu\\opcoes_meus_topicos.xml"
+    },
+    {
+        "merged": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\menu\\opcoes_forum.xml",
+        "source": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\src\\main\\res\\menu\\opcoes_forum.xml"
+    },
+    {
+        "merged": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\menu\\bottom_menu_opcoes.xml",
+        "source": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\src\\main\\res\\menu\\bottom_menu_opcoes.xml"
+    },
+    {
+        "merged": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\menu\\opcoes_login.xml",
+        "source": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\src\\main\\res\\menu\\opcoes_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\menu\\opcoes_ler_mp.xml",
+        "source": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\src\\main\\res\\menu\\opcoes_ler_mp.xml"
+    },
+    {
+        "merged": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\menu\\opcoes_menu.xml",
+        "source": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\src\\main\\res\\menu\\opcoes_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\menu\\opcoes_criar_topico.xml",
+        "source": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\src\\main\\res\\menu\\opcoes_criar_topico.xml"
+    },
+    {
+        "merged": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\menu\\opcoes_enviar_mp.xml",
+        "source": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\src\\main\\res\\menu\\opcoes_enviar_mp.xml"
+    },
+    {
+        "merged": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\menu\\opcoes_mp.xml",
+        "source": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\src\\main\\res\\menu\\opcoes_mp.xml"
+    },
+    {
+        "merged": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\build\\intermediates\\res\\merged\\debug\\menu\\opcoes_topico.xml",
+        "source": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\src\\main\\res\\menu\\opcoes_topico.xml"
+    }
+]

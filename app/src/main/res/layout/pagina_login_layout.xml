@@ -1,0 +1,190 @@
+<android.support.design.widget.CoordinatorLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android.support.design="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/coordinator_layout"
+    android:layout_width="match_parent"
+    android:background="#ffffff"
+    android:layout_height="match_parent">
+
+
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:id="@+id/login_main_container"
+    android:orientation="vertical"
+    android:layout_height="match_parent">
+    
+    <android.support.v7.widget.Toolbar
+   android:id="@+id/login_toolbar"
+   android:layout_width="match_parent"
+   android:layout_height="?attr/actionBarSize"
+   android:background="#5e5e5e"
+   android:elevation="4dp"
+   app:title="Fazer login"
+   android:theme="@style/ThemeOverlay.AppCompat.Dark.ActionBar"
+   app:popupTheme="@style/ThemeOverlay.AppCompat.Light"/>
+   
+   <ProgressBar
+      android:id="@+id/progressBar"
+      android:layout_width="fill_parent"
+      android:indeterminate="true"
+      android:progressTint="#ed6200"
+      android:layout_height="8dp"
+      android:visibility="gone"
+      style="?android:attr/progressBarStyleHorizontal"
+      />
+
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+  
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:layout_height="wrap_content">
+    
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:gravity="center"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal">
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="10dp"
+        android:textSize="30dp"
+        android:textColor="#000000"
+        android:textStyle="bold"
+        android:text="UOL" />
+        
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="20dp"
+        android:textSize="28dp"
+        android:textStyle="bold"
+        android:textColor="#ed6e00"
+        android:text="jogos" />
+    </LinearLayout>
+        
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:textColor="#bc5700"
+        android:layout_marginLeft="30dp"
+        android:textSize="18dp"
+        android:text="Fórum" />
+    
+    
+    <HorizontalScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_marginTop="18dp"
+    android:gravity="center"
+    android:layout_marginBottom="18dp"
+    android:layout_height="wrap_content">
+    
+    <LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:id="@+id/logins_salvos_container"
+    android:orientation="horizontal">
+    
+    
+    </LinearLayout>
+    </HorizontalScrollView>
+    
+    
+      
+    <LinearLayout
+      android:layout_width="fill_parent"
+      android:layout_height="wrap_content"
+      android:layout_centerVertical="true"
+      android:layout_centerHorizontal="true"
+      android:orientation="vertical">
+            
+            <LinearLayout
+      android:layout_width="fill_parent"
+      android:layout_height="wrap_content"
+      android:orientation="horizontal">
+      
+      <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Email: "
+        android:textSize="18dp"
+        android:layout_marginLeft="12dp"/>
+                 <EditText
+            android:id="@+id/email_address"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_marginRight="14dp"
+            android:layout_marginLeft="14dp"
+            android:layout_height="wrap_content"
+            android:inputType="textEmailAddress" />
+        </LinearLayout>
+        
+        <LinearLayout
+      android:layout_width="fill_parent"
+      android:layout_height="wrap_content"
+      android:orientation="horizontal">
+      
+      <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Senha: "
+        android:textSize="18dp"
+        android:layout_marginLeft="12dp"/>
+                 <EditText
+            android:id="@+id/senha"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_marginRight="14dp"
+            android:layout_height="wrap_content"
+            android:inputType="textPassword" />
+        </LinearLayout>
+        
+        <LinearLayout
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+      android:layout_margin="18dp"
+      android:orientation="horizontal">
+      
+      <LinearLayout
+      android:layout_width="0dp"
+      android:layout_weight="1"
+      android:layout_height="wrap_content"
+      android:gravity="right"
+      android:orientation="horizontal">
+      <Button
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:background="#ef7d01"
+    android:textColor="#FFFFFF"
+    android:textStyle="bold"
+    android:onClick="BotaoEnviarListener"
+     android:text = "Enviar"/>
+      
+      </LinearLayout>
+      </LinearLayout>
+      
+     
+     </LinearLayout>
+      
+        
+
+
+</LinearLayout>
+
+</ScrollView>
+
+</LinearLayout>
+
+</android.support.design.widget.CoordinatorLayout>

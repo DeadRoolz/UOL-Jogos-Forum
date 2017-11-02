@@ -1,0 +1,106 @@
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+<org.apmem.tools.layouts.FlowLayout
+	xmlns:android="http://schemas.android.com/apk/res/android"
+	android:layout_width="match_parent"
+	android:layout_height="wrap_content"
+>
+
+    <Button
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:onClick="OnBBCodeClickListener"
+     android:text = "b"/>
+     
+     
+     <Button
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:onClick="OnBBCodeClickListener"
+     android:text = "i"/>
+     
+
+     
+     <Button
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:onClick="OnBBCodeClickListener"
+     android:text = "u"/>
+
+     
+     <Button
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:onClick="OnBBCodeClickListener"
+     android:text = "quote"/>
+
+     
+     <Button
+    android:layout_width="wrap_content"
+    android:onClick="OnBBCodeClickListener"
+    android:layout_height="wrap_content"
+     android:text = "code"/>
+
+     
+     <Button
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:onClick="OnBBCodeClickListener"
+     android:text = "list"/>
+     
+
+     
+     <Button
+    android:layout_width="wrap_content"
+    android:onClick="OnBBCodeClickListener"
+    android:layout_height="wrap_content"
+     android:text = "img"/>
+     
+
+     
+     <Button
+    android:layout_width="wrap_content"
+    android:onClick="OnBBCodeClickListener"
+    android:layout_height="wrap_content"
+     android:text = "url"/>
+     
+
+     
+     <Button
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:onClick="OnBBCodeClickListener"
+     android:text = "center"/>
+     
+
+     
+     <Button
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:onClick="OnBBCodeClickListener"
+     android:text = "uolmais"/>
+     
+
+     
+     <Button
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:onClick="OnBBCodeClickListener"
+     android:text = "youtube"/>
+     
+
+     
+     <Button
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:onClick="OnBBCodeClickListener"
+     android:text = "spoiler"/>
+     
+
+
+</org.apmem.tools.layouts.FlowLayout>
+
+</ScrollView>

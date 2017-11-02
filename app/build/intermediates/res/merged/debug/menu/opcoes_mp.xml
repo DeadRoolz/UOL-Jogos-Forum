@@ -1,0 +1,25 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    
+    <item android:id="@+id/action_goto_recebidas"
+          android:title="Recebidas"
+          app:showAsAction="never"/>
+          
+    <item android:id="@+id/action_goto_enviadas"
+          android:title="Enviadas"
+          app:showAsAction="never"/>
+          
+    
+    <item android:id="@+id/action_nova_mp"
+          android:title="Nova Mensagem"
+          android:icon="@drawable/ic_create_white_24dp"
+          app:showAsAction="always"/>
+    
+    <item android:id="@+id/action_deletar"
+          android:title="Excluir selecionados"
+          android:icon="@drawable/ic_delete_white_24dp"
+          app:showAsAction="always"/>
+          
+
+</menu>

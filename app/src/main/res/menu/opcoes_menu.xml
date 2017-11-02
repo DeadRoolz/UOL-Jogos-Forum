@@ -1,0 +1,26 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+          
+    <item android:id="@+id/action_refresh_topic"
+          android:title="Atualizar"
+          app:showAsAction="never"/>
+    
+    <item android:id="@+id/action_anterior"
+          android:title="Pág. anterior"
+          android:visibility="gone"
+          android:icon="@drawable/ic_chevron_left_white_48dp"
+          app:showAsAction="always"/>
+    
+    <item android:id="@+id/action_proximo"
+          android:title="Pág. seguinte"
+          android:visibility="gone"
+          android:icon="@drawable/ic_chevron_right_white_48dp"
+          app:showAsAction="always"/>
+          
+          
+    <item android:id="@+id/action_navegar_pag"
+          android:title="Ir para pág."
+          app:showAsAction="never"/>
+
+</menu>

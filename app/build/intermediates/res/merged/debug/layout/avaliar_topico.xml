@@ -1,0 +1,104 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content">
+    
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:background="#282828"
+    android:gravity="left|center"
+    android:layout_width="match_parent"
+    android:layout_height="40dp">
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:scaleType="center"
+        android:layout_marginLeft="14dp"
+        android:text="Avaliar"
+        android:textSize="18dp"
+        android:textColor="#ffffff" />
+        
+    </LinearLayout>
+        
+        <LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/stars_container"
+    android:layout_width="match_parent"
+    android:orientation="horizontal"
+    android:layout_height="160dp"
+    android:gravity="center"
+    android:layout_weight="1">
+    
+    <ImageView
+            android:id="@+id/imageView_Estrela1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:onClick="EstrelaClickListener"
+            android:src="@drawable/ic_star_border_black_36dp" />
+    <ImageView
+            android:id="@+id/imageView_Estrela2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:onClick="EstrelaClickListener"
+            android:src="@drawable/ic_star_border_black_36dp" />
+    <ImageView
+            android:id="@+id/imageView_Estrela3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:onClick="EstrelaClickListener"
+            android:src="@drawable/ic_star_border_black_36dp" />
+    <ImageView
+            android:id="@+id/imageView_Estrela4"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:onClick="EstrelaClickListener"
+            android:src="@drawable/ic_star_border_black_36dp" />
+    <ImageView
+            android:id="@+id/imageView_Estrela5"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:onClick="EstrelaClickListener"
+            android:src="@drawable/ic_star_border_black_36dp" />
+    
+    </LinearLayout>
+    
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal"
+    android:gravity="center"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+    
+    <TextView
+		android:id="@+id/txtDesc"
+		android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textStyle="bold"
+        android:textColor="#595959"
+   />
+    
+    </LinearLayout>
+    
+    
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+    
+    <Button
+    android:layout_width="wrap_content"
+    android:id="@+id/pag_dialog_cancel"
+    android:layout_height="wrap_content"
+    android:layout_weight="1"
+    android:onClick="BotaoFecharAvaliarTopicosListener"
+    android:text="Fechar"/>
+    
+    <Button
+    android:layout_width="wrap_content"
+    android:id="@+id/pag_dialog_cancel"
+    android:layout_height="wrap_content"
+    android:layout_weight="1"
+    android:onClick="EnviarAvaliacaoClickListener"
+    android:text="Enviar"/>
+    
+    </LinearLayout>
+</LinearLayout>

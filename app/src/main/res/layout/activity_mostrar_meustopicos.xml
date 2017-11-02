@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+  
+<android.support.design.widget.CoordinatorLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:id="@+id/meustopicos_main_container"
+    android:layout_height="match_parent">
+    
+
+    <!-- The main content view -->
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/topico_layout"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical"
+    android:background="#4c4c4c"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    
+      <android.support.v7.widget.Toolbar
+   android:id="@+id/meustopicos_toolbar"
+   android:layout_width="match_parent"
+   android:layout_height="?attr/actionBarSize"
+   android:background="#5e5e5e"
+   android:elevation="4dp"
+   android:theme="@style/ThemeOverlay.AppCompat.Dark.ActionBar"
+   app:popupTheme="@style/ThemeOverlay.AppCompat.Light"/>
+    
+        <android.support.v4.widget.SwipeRefreshLayout
+        android:id="@+id/swipe_refresh_layout"
+        android:layout_width="fill_parent"
+        android:layout_weight="1"
+        android:layout_height="wrap_content">
+        <ListView
+            android:id="@+id/ListaDeMeusTopicos"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:scrollbarSize="3dp"
+            android:scrollbarThumbVertical="@color/scrollbar_color"
+            android:divider="#d9d9de"
+            android:dividerHeight="1dp"
+            android:layout_weight="1"/>
+       </android.support.v4.widget.SwipeRefreshLayout>
+
+</LinearLayout>
+
+
+</android.support.design.widget.CoordinatorLayout>

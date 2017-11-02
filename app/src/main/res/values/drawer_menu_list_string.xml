@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array
+        name="menu_drawer_items">
+        <item>Perfil</item>
+        <item>Meus tópicos</item>
+        <item>Mensagens Particulares</item>
+    </string-array>
+</resources>

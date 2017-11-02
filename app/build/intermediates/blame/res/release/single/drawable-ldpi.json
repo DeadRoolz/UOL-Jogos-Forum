@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\build\\intermediates\\res\\merged\\release\\drawable-ldpi\\ic_launcher.png",
+        "source": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\src\\main\\res\\drawable-ldpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\build\\intermediates\\res\\merged\\release\\drawable-ldpi\\paypal_logo.png",
+        "source": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\src\\main\\res\\drawable-ldpi\\paypal_logo.png"
+    },
+    {
+        "merged": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\build\\intermediates\\res\\merged\\release\\drawable-ldpi\\bitcoin_logo.png",
+        "source": "C:\\Users\\DeadRoolz\\Desktop\\VT_Mobile\\app\\src\\main\\res\\drawable-ldpi\\bitcoin_logo.png"
+    }
+]

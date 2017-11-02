@@ -1,0 +1,9 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+          
+    <item android:id="@+id/action_responder_mp"
+          android:title="Enviar mensagem"
+          app:showAsAction="always"
+          android:icon="@drawable/ic_reply_white_24dp"/>
+
+</menu>

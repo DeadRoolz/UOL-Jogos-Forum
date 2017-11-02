@@ -1,0 +1,30 @@
+<!--
+  Copyright 2012 The Android Open Source Project
+
+  Licensed under the Apache License, Version 2.0 (the "License");
+  you may not use this file except in compliance with the License.
+  You may obtain a copy of the License at
+
+      http://www.apache.org/licenses/LICENSE-2.0
+
+  Unless required by applicable law or agreed to in writing, software
+  distributed under the License is distributed on an "AS IS" BASIS,
+  WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  See the License for the specific language governing permissions and
+  limitations under the License.
+  -->
+
+<resources>
+    <string name="app_name">UOL Jogos Fórum</string>
+    <string name="drawer_close">Fechado</string>
+    <string name="drawer_open">Aberto</string>
+    <string name="login_failed_message">Falha ao realizar login</string>
+    <string name="delete_profile_failed_message">Perfil não encontrado</string>
+    <string name="delete_profile_success_message">Perfil removido</string>
+    <string name="logout_success_message">Logout efetuado</string>
+    <string name="major_version">1</string>
+    <string name="minor_version">0</string>
+    <string name="patch_version">0</string>
+    <string name="app_description">UOL Jogos Fórum é um aplicativo não oficial que tem como objetivo fornecer acesso às principais funções do Fórum UOL Jogos no smartphone.</string>
+    <string name="app_description2">\nEsse aplicativo é gratuito e livre de propagandas.</string>
+</resources>

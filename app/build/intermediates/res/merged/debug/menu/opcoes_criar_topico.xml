@@ -1,0 +1,15 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    
+
+    <item android:id="@+id/action_insert_emoticon"
+          android:title="Enviar tópico"
+          app:showAsAction="always"
+          android:icon="@drawable/ic_insert_emoticon_white_24dp"/>
+        
+    <item android:id="@+id/action_enviar_topico"
+          android:title="Enviar tópico"
+          app:showAsAction="always"
+          android:icon="@drawable/ic_send_white_24dp"/>
+
+</menu>

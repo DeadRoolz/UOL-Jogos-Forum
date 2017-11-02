@@ -1,0 +1,85 @@
+<android.support.design.widget.CoordinatorLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android.support.design="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/coordinator_layout"
+    android:layout_width="match_parent"
+    android:background="#ffffff"
+    android:layout_height="match_parent">
+
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/topico_layout"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android.support.design="http://schemas.android.com/apk/res-auto">
+    
+    
+    <android.support.v7.widget.Toolbar
+   android:id="@+id/criar_topico_toolbar"
+   android:layout_width="match_parent"
+   android:layout_height="?attr/actionBarSize"
+   android:background="@color/toolbar_color"
+   android:elevation="4dp"
+   android:theme="@style/ThemeOverlay.AppCompat.Dark.ActionBar"
+   app:popupTheme="@style/ThemeOverlay.AppCompat.Light"/>
+   
+   <ProgressBar
+      android:id="@+id/progressBar"
+      android:layout_width="fill_parent"
+      android:indeterminate="true"
+      android:progressTint="#ed6200"
+      android:layout_height="8dp"
+      android:visibility="gone"
+      style="?android:attr/progressBarStyleHorizontal"
+      />
+    
+    
+    <LinearLayout
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
+    
+    <android.support.design.widget.TextInputLayout
+    android:layout_width="fill_parent"
+    android:layout_margin="18dp"
+    android.support.design:counterEnabled="true"
+    android.support.design:counterMaxLength="100"
+    android:orientation="horizontal"
+    android:layout_height="wrap_content">
+    
+    
+  <android.support.design.widget.TextInputEditText
+      android:layout_width="fill_parent"
+      android:layout_height="wrap_content"
+      android:id="@+id/criar_topico_titulo"
+      android:singleLine="true"
+      android:hint="Assunto"/>
+      
+      
+</android.support.design.widget.TextInputLayout>
+    
+    
+    <android.support.design.widget.TextInputLayout
+    android:layout_width="fill_parent"
+    android:layout_margin="18dp"
+    android.support.design:counterEnabled="true"
+    android.support.design:counterMaxLength="15000"
+    android:orientation="horizontal"
+    android:layout_height="wrap_content">
+    
+    
+  <android.support.design.widget.TextInputEditText
+      android:layout_width="fill_parent"
+      android:minLines="4"
+      android:id="@+id/criar_topico_mensagem"
+      android:layout_height="wrap_content"
+      android:hint="Mensagem"/>
+</android.support.design.widget.TextInputLayout>
+
+</LinearLayout>
+    
+</LinearLayout>
+</android.support.design.widget.CoordinatorLayout>

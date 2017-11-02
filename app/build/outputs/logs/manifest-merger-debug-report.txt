@@ -1,0 +1,231 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\DeadRoolz\Desktop\VT_Mobile\app\src\main\AndroidManifest.xml:17:1-117:12
+	package
+		ADDED from C:\Users\DeadRoolz\Desktop\VT_Mobile\app\src\main\AndroidManifest.xml:18:5-39
+		INJECTED from C:\Users\DeadRoolz\Desktop\VT_Mobile\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\DeadRoolz\Desktop\VT_Mobile\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from C:\Users\DeadRoolz\Desktop\VT_Mobile\app\src\main\AndroidManifest.xml:20:5-32
+		INJECTED from C:\Users\DeadRoolz\Desktop\VT_Mobile\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\DeadRoolz\Desktop\VT_Mobile\app\src\main\AndroidManifest.xml
+	android:versionCode
+		ADDED from C:\Users\DeadRoolz\Desktop\VT_Mobile\app\src\main\AndroidManifest.xml:19:5-28
+		INJECTED from C:\Users\DeadRoolz\Desktop\VT_Mobile\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\DeadRoolz\Desktop\VT_Mobile\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\DeadRoolz\Desktop\VT_Mobile\app\src\main\AndroidManifest.xml:17:11-69
+uses-sdk
+ADDED from C:\Users\DeadRoolz\Desktop\VT_Mobile\app\src\main\AndroidManifest.xml:22:5-44
+MERGED from [com.android.support:design:25.0.1] C:\Users\DeadRoolz\Desktop\VT_Mobile\app\build\intermediates\exploded-aar\com.android.support\design\25.0.1\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:25.0.1] C:\Users\DeadRoolz\Desktop\VT_Mobile\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.0.1\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.0.1] C:\Users\DeadRoolz\Desktop\VT_Mobile\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.0.1] C:\Users\DeadRoolz\Desktop\VT_Mobile\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.0.1\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:transition:25.0.1] C:\Users\DeadRoolz\Desktop\VT_Mobile\app\build\intermediates\exploded-aar\com.android.support\transition\25.0.1\AndroidManifest.xml:20:5-44
+MERGED from [org.apmem.tools:layouts:1.10] C:\Users\DeadRoolz\Desktop\VT_Mobile\app\build\intermediates\exploded-aar\org.apmem.tools\layouts\1.10\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\DeadRoolz\Desktop\VT_Mobile\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.3.1\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\DeadRoolz\Desktop\VT_Mobile\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.3.1\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\DeadRoolz\Desktop\VT_Mobile\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.3.1\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\DeadRoolz\Desktop\VT_Mobile\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.3.1\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:cardview-v7:21.0.3] C:\Users\DeadRoolz\Desktop\VT_Mobile\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\21.0.3\AndroidManifest.xml:15:5-42
+MERGED from [com.android.support:recyclerview-v7:25.0.1] C:\Users\DeadRoolz\Desktop\VT_Mobile\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.0.1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\DeadRoolz\Desktop\VT_Mobile\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.3.1\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\DeadRoolz\Desktop\VT_Mobile\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.3.1\AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:25.0.1] C:\Users\DeadRoolz\Desktop\VT_Mobile\app\build\intermediates\exploded-aar\com.android.support\design\25.0.1\AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from C:\Users\DeadRoolz\Desktop\VT_Mobile\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\DeadRoolz\Desktop\VT_Mobile\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from C:\Users\DeadRoolz\Desktop\VT_Mobile\app\src\main\AndroidManifest.xml:22:15-41
+		INJECTED from C:\Users\DeadRoolz\Desktop\VT_Mobile\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\DeadRoolz\Desktop\VT_Mobile\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\DeadRoolz\Desktop\VT_Mobile\app\src\main\AndroidManifest.xml:23:5-67
+	android:name
+		ADDED from C:\Users\DeadRoolz\Desktop\VT_Mobile\app\src\main\AndroidManifest.xml:23:22-64
+application
+ADDED from C:\Users\DeadRoolz\Desktop\VT_Mobile\app\src\main\AndroidManifest.xml:25:5-116:19
+MERGED from [com.android.support:design:25.0.1] C:\Users\DeadRoolz\Desktop\VT_Mobile\app\build\intermediates\exploded-aar\com.android.support\design\25.0.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:appcompat-v7:25.0.1] C:\Users\DeadRoolz\Desktop\VT_Mobile\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.0.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.0.1] C:\Users\DeadRoolz\Desktop\VT_Mobile\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:25.0.1] C:\Users\DeadRoolz\Desktop\VT_Mobile\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.0.1\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:transition:25.0.1] C:\Users\DeadRoolz\Desktop\VT_Mobile\app\build\intermediates\exploded-aar\com.android.support\transition\25.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\DeadRoolz\Desktop\VT_Mobile\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.3.1\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\DeadRoolz\Desktop\VT_Mobile\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.3.1\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\DeadRoolz\Desktop\VT_Mobile\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.3.1\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\DeadRoolz\Desktop\VT_Mobile\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.3.1\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:cardview-v7:21.0.3] C:\Users\DeadRoolz\Desktop\VT_Mobile\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\21.0.3\AndroidManifest.xml:16:5-19
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\DeadRoolz\Desktop\VT_Mobile\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.3.1\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\DeadRoolz\Desktop\VT_Mobile\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.3.1\AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from C:\Users\DeadRoolz\Desktop\VT_Mobile\app\src\main\AndroidManifest.xml:25:18-50
+	android:icon
+		ADDED from C:\Users\DeadRoolz\Desktop\VT_Mobile\app\src\main\AndroidManifest.xml:26:9-45
+activity#com.gpsoft.uoljogosforum.MainActivity
+ADDED from C:\Users\DeadRoolz\Desktop\VT_Mobile\app\src\main\AndroidManifest.xml:29:9-34:20
+	android:label
+		ADDED from C:\Users\DeadRoolz\Desktop\VT_Mobile\app\src\main\AndroidManifest.xml:29:48-80
+	android:launchMode
+		ADDED from C:\Users\DeadRoolz\Desktop\VT_Mobile\app\src\main\AndroidManifest.xml:29:81-111
+	android:noHistory
+		ADDED from C:\Users\DeadRoolz\Desktop\VT_Mobile\app\src\main\AndroidManifest.xml:29:169-194
+	android:theme
+		ADDED from C:\Users\DeadRoolz\Desktop\VT_Mobile\app\src\main\AndroidManifest.xml:29:112-168
+	android:name
+		ADDED from C:\Users\DeadRoolz\Desktop\VT_Mobile\app\src\main\AndroidManifest.xml:29:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\DeadRoolz\Desktop\VT_Mobile\app\src\main\AndroidManifest.xml:30:13-33:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\DeadRoolz\Desktop\VT_Mobile\app\src\main\AndroidManifest.xml:31:17-69
+	android:name
+		ADDED from C:\Users\DeadRoolz\Desktop\VT_Mobile\app\src\main\AndroidManifest.xml:31:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\DeadRoolz\Desktop\VT_Mobile\app\src\main\AndroidManifest.xml:32:17-77
+	android:name
+		ADDED from C:\Users\DeadRoolz\Desktop\VT_Mobile\app\src\main\AndroidManifest.xml:32:27-74
+activity#com.gpsoft.uoljogosforum.MostrarTopicoActivity
+ADDED from C:\Users\DeadRoolz\Desktop\VT_Mobile\app\src\main\AndroidManifest.xml:36:9-42:20
+	android:label
+		ADDED from C:\Users\DeadRoolz\Desktop\VT_Mobile\app\src\main\AndroidManifest.xml:36:114-146
+	android:launchMode
+		ADDED from C:\Users\DeadRoolz\Desktop\VT_Mobile\app\src\main\AndroidManifest.xml:36:83-113
+	android:noHistory
+		ADDED from C:\Users\DeadRoolz\Desktop\VT_Mobile\app\src\main\AndroidManifest.xml:36:57-82
+	android:windowSoftInputMode
+		ADDED from C:\Users\DeadRoolz\Desktop\VT_Mobile\app\src\main\AndroidManifest.xml:36:204-245
+	android:theme
+		ADDED from C:\Users\DeadRoolz\Desktop\VT_Mobile\app\src\main\AndroidManifest.xml:36:147-203
+	android:name
+		ADDED from C:\Users\DeadRoolz\Desktop\VT_Mobile\app\src\main\AndroidManifest.xml:36:19-56
+meta-data#android.support.PARENT_ACTIVITY
+ADDED from C:\Users\DeadRoolz\Desktop\VT_Mobile\app\src\main\AndroidManifest.xml:38:9-40:53
+	android:value
+		ADDED from C:\Users\DeadRoolz\Desktop\VT_Mobile\app\src\main\AndroidManifest.xml:40:13-50
+	android:name
+		ADDED from C:\Users\DeadRoolz\Desktop\VT_Mobile\app\src\main\AndroidManifest.xml:39:13-59
+activity#com.gpsoft.uoljogosforum.LoginActivity
+ADDED from C:\Users\DeadRoolz\Desktop\VT_Mobile\app\src\main\AndroidManifest.xml:44:10-49:20
+	android:label
+		ADDED from C:\Users\DeadRoolz\Desktop\VT_Mobile\app\src\main\AndroidManifest.xml:44:107-139
+	android:launchMode
+		ADDED from C:\Users\DeadRoolz\Desktop\VT_Mobile\app\src\main\AndroidManifest.xml:44:76-106
+	android:noHistory
+		ADDED from C:\Users\DeadRoolz\Desktop\VT_Mobile\app\src\main\AndroidManifest.xml:44:50-75
+	android:windowSoftInputMode
+		ADDED from C:\Users\DeadRoolz\Desktop\VT_Mobile\app\src\main\AndroidManifest.xml:44:197-238
+	android:theme
+		ADDED from C:\Users\DeadRoolz\Desktop\VT_Mobile\app\src\main\AndroidManifest.xml:44:140-196
+	android:name
+		ADDED from C:\Users\DeadRoolz\Desktop\VT_Mobile\app\src\main\AndroidManifest.xml:44:20-49
+activity#com.gpsoft.uoljogosforum.GerenciarPerfisActivity
+ADDED from C:\Users\DeadRoolz\Desktop\VT_Mobile\app\src\main\AndroidManifest.xml:51:9-56:20
+	android:label
+		ADDED from C:\Users\DeadRoolz\Desktop\VT_Mobile\app\src\main\AndroidManifest.xml:51:116-148
+	android:launchMode
+		ADDED from C:\Users\DeadRoolz\Desktop\VT_Mobile\app\src\main\AndroidManifest.xml:51:85-115
+	android:noHistory
+		ADDED from C:\Users\DeadRoolz\Desktop\VT_Mobile\app\src\main\AndroidManifest.xml:51:59-84
+	android:windowSoftInputMode
+		ADDED from C:\Users\DeadRoolz\Desktop\VT_Mobile\app\src\main\AndroidManifest.xml:51:206-247
+	android:theme
+		ADDED from C:\Users\DeadRoolz\Desktop\VT_Mobile\app\src\main\AndroidManifest.xml:51:149-205
+	android:name
+		ADDED from C:\Users\DeadRoolz\Desktop\VT_Mobile\app\src\main\AndroidManifest.xml:51:19-58
+activity#com.gpsoft.uoljogosforum.MostrarMeusTopicosActivity
+ADDED from C:\Users\DeadRoolz\Desktop\VT_Mobile\app\src\main\AndroidManifest.xml:58:9-64:20
+	android:label
+		ADDED from C:\Users\DeadRoolz\Desktop\VT_Mobile\app\src\main\AndroidManifest.xml:58:119-151
+	android:launchMode
+		ADDED from C:\Users\DeadRoolz\Desktop\VT_Mobile\app\src\main\AndroidManifest.xml:58:88-118
+	android:noHistory
+		ADDED from C:\Users\DeadRoolz\Desktop\VT_Mobile\app\src\main\AndroidManifest.xml:58:62-87
+	android:theme
+		ADDED from C:\Users\DeadRoolz\Desktop\VT_Mobile\app\src\main\AndroidManifest.xml:58:152-208
+	android:name
+		ADDED from C:\Users\DeadRoolz\Desktop\VT_Mobile\app\src\main\AndroidManifest.xml:58:19-61
+activity#com.gpsoft.uoljogosforum.SobreActivity
+ADDED from C:\Users\DeadRoolz\Desktop\VT_Mobile\app\src\main\AndroidManifest.xml:66:9-72:20
+	android:label
+		ADDED from C:\Users\DeadRoolz\Desktop\VT_Mobile\app\src\main\AndroidManifest.xml:66:106-138
+	android:launchMode
+		ADDED from C:\Users\DeadRoolz\Desktop\VT_Mobile\app\src\main\AndroidManifest.xml:66:75-105
+	android:noHistory
+		ADDED from C:\Users\DeadRoolz\Desktop\VT_Mobile\app\src\main\AndroidManifest.xml:66:49-74
+	android:theme
+		ADDED from C:\Users\DeadRoolz\Desktop\VT_Mobile\app\src\main\AndroidManifest.xml:66:139-195
+	android:name
+		ADDED from C:\Users\DeadRoolz\Desktop\VT_Mobile\app\src\main\AndroidManifest.xml:66:19-48
+activity#com.gpsoft.uoljogosforum.MostrarMpsActivity
+ADDED from C:\Users\DeadRoolz\Desktop\VT_Mobile\app\src\main\AndroidManifest.xml:74:9-80:20
+	android:label
+		ADDED from C:\Users\DeadRoolz\Desktop\VT_Mobile\app\src\main\AndroidManifest.xml:74:111-143
+	android:launchMode
+		ADDED from C:\Users\DeadRoolz\Desktop\VT_Mobile\app\src\main\AndroidManifest.xml:74:80-110
+	android:noHistory
+		ADDED from C:\Users\DeadRoolz\Desktop\VT_Mobile\app\src\main\AndroidManifest.xml:74:54-79
+	android:theme
+		ADDED from C:\Users\DeadRoolz\Desktop\VT_Mobile\app\src\main\AndroidManifest.xml:74:144-200
+	android:name
+		ADDED from C:\Users\DeadRoolz\Desktop\VT_Mobile\app\src\main\AndroidManifest.xml:74:19-53
+activity#com.gpsoft.uoljogosforum.EnviarMPActivity
+ADDED from C:\Users\DeadRoolz\Desktop\VT_Mobile\app\src\main\AndroidManifest.xml:83:9-89:20
+	android:label
+		ADDED from C:\Users\DeadRoolz\Desktop\VT_Mobile\app\src\main\AndroidManifest.xml:83:109-141
+	android:launchMode
+		ADDED from C:\Users\DeadRoolz\Desktop\VT_Mobile\app\src\main\AndroidManifest.xml:83:78-108
+	android:noHistory
+		ADDED from C:\Users\DeadRoolz\Desktop\VT_Mobile\app\src\main\AndroidManifest.xml:83:52-77
+	android:theme
+		ADDED from C:\Users\DeadRoolz\Desktop\VT_Mobile\app\src\main\AndroidManifest.xml:83:142-198
+	android:name
+		ADDED from C:\Users\DeadRoolz\Desktop\VT_Mobile\app\src\main\AndroidManifest.xml:83:19-51
+activity#com.gpsoft.uoljogosforum.LerMpActivity
+ADDED from C:\Users\DeadRoolz\Desktop\VT_Mobile\app\src\main\AndroidManifest.xml:91:9-97:20
+	android:label
+		ADDED from C:\Users\DeadRoolz\Desktop\VT_Mobile\app\src\main\AndroidManifest.xml:91:106-138
+	android:launchMode
+		ADDED from C:\Users\DeadRoolz\Desktop\VT_Mobile\app\src\main\AndroidManifest.xml:91:75-105
+	android:noHistory
+		ADDED from C:\Users\DeadRoolz\Desktop\VT_Mobile\app\src\main\AndroidManifest.xml:91:49-74
+	android:theme
+		ADDED from C:\Users\DeadRoolz\Desktop\VT_Mobile\app\src\main\AndroidManifest.xml:91:139-195
+	android:name
+		ADDED from C:\Users\DeadRoolz\Desktop\VT_Mobile\app\src\main\AndroidManifest.xml:91:19-48
+activity#com.gpsoft.uoljogosforum.MostrarForumActivity
+ADDED from C:\Users\DeadRoolz\Desktop\VT_Mobile\app\src\main\AndroidManifest.xml:99:10-105:20
+	android:label
+		ADDED from C:\Users\DeadRoolz\Desktop\VT_Mobile\app\src\main\AndroidManifest.xml:99:114-146
+	android:launchMode
+		ADDED from C:\Users\DeadRoolz\Desktop\VT_Mobile\app\src\main\AndroidManifest.xml:99:57-87
+	android:noHistory
+		ADDED from C:\Users\DeadRoolz\Desktop\VT_Mobile\app\src\main\AndroidManifest.xml:99:88-113
+	android:theme
+		ADDED from C:\Users\DeadRoolz\Desktop\VT_Mobile\app\src\main\AndroidManifest.xml:99:147-203
+	android:name
+		ADDED from C:\Users\DeadRoolz\Desktop\VT_Mobile\app\src\main\AndroidManifest.xml:99:20-56
+activity#com.gpsoft.uoljogosforum.CriarTopicoActivity
+ADDED from C:\Users\DeadRoolz\Desktop\VT_Mobile\app\src\main\AndroidManifest.xml:107:9-113:20
+	android:label
+		ADDED from C:\Users\DeadRoolz\Desktop\VT_Mobile\app\src\main\AndroidManifest.xml:107:112-144
+	android:launchMode
+		ADDED from C:\Users\DeadRoolz\Desktop\VT_Mobile\app\src\main\AndroidManifest.xml:107:81-111
+	android:noHistory
+		ADDED from C:\Users\DeadRoolz\Desktop\VT_Mobile\app\src\main\AndroidManifest.xml:107:55-80
+	android:windowSoftInputMode
+		ADDED from C:\Users\DeadRoolz\Desktop\VT_Mobile\app\src\main\AndroidManifest.xml:107:202-243
+	android:theme
+		ADDED from C:\Users\DeadRoolz\Desktop\VT_Mobile\app\src\main\AndroidManifest.xml:107:145-201
+	android:name
+		ADDED from C:\Users\DeadRoolz\Desktop\VT_Mobile\app\src\main\AndroidManifest.xml:107:19-54
+meta-data#android.support.VERSION
+ADDED from [com.android.support:support-v4:25.3.1] C:\Users\DeadRoolz\Desktop\VT_Mobile\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.3.1\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\DeadRoolz\Desktop\VT_Mobile\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.3.1\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\DeadRoolz\Desktop\VT_Mobile\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.3.1\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\DeadRoolz\Desktop\VT_Mobile\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.3.1\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\DeadRoolz\Desktop\VT_Mobile\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.3.1\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\DeadRoolz\Desktop\VT_Mobile\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.3.1\AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:support-v4:25.3.1] C:\Users\DeadRoolz\Desktop\VT_Mobile\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.3.1\AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:support-v4:25.3.1] C:\Users\DeadRoolz\Desktop\VT_Mobile\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.3.1\AndroidManifest.xml:26:9-47
